@@ -1,0 +1,10 @@
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\bin\Debug\CustomerExample.exe.config
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\bin\Debug\CustomerExample.exe
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\bin\Debug\CustomerExample.pdb
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\obj\Debug\CustomerExample.csproj.AssemblyReference.cache
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\obj\Debug\CustomerExample.Form1.resources
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\obj\Debug\CustomerExample.Properties.Resources.resources
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\obj\Debug\CustomerExample.csproj.GenerateResource.cache
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\obj\Debug\CustomerExample.csproj.CoreCompileInputs.cache
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\obj\Debug\CustomerExample.exe
+C:\Users\berkan\source\repos\CustomerExample\CustomerExample\obj\Debug\CustomerExample.pdb
